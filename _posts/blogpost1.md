@@ -1,5 +1,5 @@
 ---
-title: 'what's up'
+title: 'whats up'
 date: 2024-11-12
 tags:
   - cool posts
