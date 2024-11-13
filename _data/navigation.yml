@@ -11,5 +11,9 @@ main:
   - title: "CV"
     url: https://github.com/fadelvalle/CV/blob/main/CV%20FDVB%20(1).pdf
     
-  - title: "Guide"
+  - title: "Thoughts and words"
     url: /markdown/
+
+  - title: "Science comm and editing"
+    url: /markdown/
+
