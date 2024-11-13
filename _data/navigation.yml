@@ -12,7 +12,7 @@ main:
     url: https://github.com/fadelvalle/CV/blob/main/CV%20FDVB%20(1).pdf
     
   - title: "Thoughts and words"
-    url: fadelvalle.github.io/_posts/
+    url: /year-archive/
 
   - title: "Science comm and editing"
     url: /portfolio/
