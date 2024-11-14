@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome to the Research of Dr. Fadel Valle
 
 Welcome to the official website of **Dr. Fadel Valle**, a scientist focused on advancing our understanding of [insert your specific scientific field(s), e.g., cellular biology, neurobiology, genetics, etc.]. Here, you'll find information about my research, publications, and contributions to the scientific community.
 
