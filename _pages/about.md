@@ -1,77 +1,39 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Felipe Del Valle"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# Welcome to My Research Website
 
-Welcome to the official website of **Dr. Fadel Valle**, a scientist focused on advancing our understanding of [insert your specific scientific field(s), e.g., cellular biology, neurobiology, genetics, etc.]. Here, you'll find information about my research, publications, and contributions to the scientific community.
+Hello! My name is **Felipe Del Valle**, and I'm a biologist from Chile with a passion for exploring the intricacies of cellular mechanisms. This website is where I share my scientific journey, my current research, and the exciting discoveries I'm making along the way.
 
 ## About Me
 
-I am a researcher passionate about unraveling the complexities of [specific area of research]. My work involves exploring [briefly describe research themes, methodologies, or specific areas, such as molecular mechanisms, disease pathways, data science, etc.]. Over the years, I have collaborated with leading experts and made significant strides in advancing our understanding of [specific subjects].
+I began my scientific journey in **Maria Isabel Yuseff’s lab**, where I studied **B cell biology**, specifically focusing on the formation of the immune synapse. This early work sparked my curiosity about the dynamic interactions between immune cells and their environment.
 
-### Research Interests:
-- **[Research Focus 1]**: [Brief description]
-- **[Research Focus 2]**: [Brief description]
-- **[Research Focus 3]**: [Brief description]
+During my **PhD**, I expanded my research to explore **mechanosensing in B cells**—specifically, how mechanical cues influence antigen capture and presentation. I became particularly interested in how **lysosomes** respond to changes in the environment, a key component of cellular function that is central to my current research.
 
-For more detailed insights into my research, you can explore my full academic profile and publications.
+Now, I am in the midst of my **postdoctoral research** in **Juan Bonifacino’s lab** at the **National Institutes of Health (NIH)** in the United States. In this phase of my career, I’m diving deeper into the **transport of lysosomes** and studying the **alternative functions** of this organelle in **neuronal models**. My research aims to uncover new insights into how lysosomal function affects neuronal health and function, particularly in relation to neurodegenerative diseases.
 
-## Key Publications
+### What Drives My Work?
 
-Here are some of my key publications that showcase my contributions to the field:
+- **Microscopy & Image Analysis**: One of my greatest passions is **microscopy**. I love capturing the fine details of cellular processes through advanced imaging techniques. I also enjoy **image analysis**, using computational tools to extract meaningful data from complex images.
+- **Mechanosensing**: Understanding how cells sense and respond to mechanical changes in their environment is a key focus of my work. My PhD laid the foundation, and I continue to build on this research in the context of neuronal cells.
+- **Lysosomes**: The diverse functions of lysosomes in cellular biology fascinate me. I am investigating their roles beyond their traditional function in degradation and waste management, particularly in the context of neural health.
 
-- **[Title of Publication 1]**  
-  *Journal Name*, Year.  
-  [Link to full publication (if available)]  
-  Summary of the publication, key findings, and impact.
 
-- **[Title of Publication 2]**  
-  *Journal Name*, Year.  
-  [Link to full publication (if available)]  
-  Summary of the publication, key findings, and impact.
 
-- **[Title of Publication 3]**  
-  *Journal Name*, Year.  
-  [Link to full publication (if available)]  
-  Summary of the publication, key findings, and impact.
+You can find my full list of publications on my [Google Scholar profile](https://scholar.google.com/citations?user=BbVGvvwAAAAJ&hl=es).
 
-For a comprehensive list of all my published work, visit my [Google Scholar profile](https://scholar.google.com/citations?user=BbVGvvwAAAAJ&hl=es).
 
-## Preprints & Featured Work
 
-I actively engage in sharing early-stage findings through **preprints**. My preprints are publicly available on platforms such as **Preprints by The Company of Biologists**. Check out some of my recent preprints below:
-
-- **[Title of Preprint 1]**  
-  [Link to Preprint]  
-  A summary of the key insights from the preprint and its relevance to ongoing research.
-
-- **[Title of Preprint 2]**  
-  [Link to Preprint]  
-  A summary of the key insights from the preprint and its relevance to ongoing research.
-
-- **[Title of Preprint 3]**  
-  [Link to Preprint]  
-  A summary of the key insights from the preprint and its relevance to ongoing research.
-
-Visit my [PreLights profile](https://prelights.biologists.com/profiles/fadelvalle/) for more preprints, discussions, and to stay updated with my latest research.
-
-## Collaborations and Research Networks
-
-Collaboration is a cornerstone of scientific progress. I am fortunate to work alongside exceptional scientists from around the world, sharing ideas and contributing to groundbreaking research. Explore my network and current collaborations, which include [list key collaborators, labs, or research institutions].
-
-## Contact
-
-For inquiries, collaboration opportunities, or more information on my work, feel free to reach out via the contact form below or at [Your Email Address].
-
-[Contact Form Link (if applicable)]
+Visit my [PreLights profile](https://prelights.biologists.com/profiles/fadelvalle/) for more insights into my ongoing research.
+)
 
 Thank you for visiting!
 
----
 
-*Follow my work on Twitter: [@YourTwitterHandle] | LinkedIn: [YourLinkedInProfile] | ResearchGate: [YourResearchGateProfile]*
-.
+
