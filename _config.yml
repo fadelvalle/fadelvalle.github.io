@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Felipe Del Valle's site"
+title                    : "Felipe Del Valle, Phd."
 title_separator          : "-"
 name                     : &name "Felipe Del Valle , PhD."
 description              : &description "personal description"
