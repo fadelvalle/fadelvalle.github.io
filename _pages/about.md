@@ -12,28 +12,17 @@ Hello! My name is **Felipe Del Valle**, and I'm a biologist from Chile with a pa
 
 ## About Me
 
-I began my scientific journey in **Maria Isabel Yuseff’s lab**, where I studied **B cell biology**, specifically focusing on the formation of the immune synapse. This early work sparked my curiosity about the dynamic interactions between immune cells and their environment.
+I am currently a postdoctoral fellow in Juan Bonifacino’s lab at the NIH, where I study the transport of lysosomes and their alternative functions in neuronal cells.
 
-During my **PhD**, I expanded my research to explore **mechanosensing in B cells**—specifically, how mechanical cues influence antigen capture and presentation. I became particularly interested in how **lysosomes** respond to changes in the environment, a key component of cellular function that is central to my current research.
+Throughout my career, I have been driven by a passion for science communication and collaboration. While my research journey has taken me deep into the intricacies of cellular mechanisms, I have realized that my greatest fulfillment comes from making science accessible, engaging, and impactful. I am committed to distilling complex ideas into formats that resonate with diverse audiences and foster a deeper appreciation of scientific knowledge.
 
-Now, I am in the midst of my **postdoctoral research** in **Juan Bonifacino’s lab** at the **National Institutes of Health (NIH)** in the United States. In this phase of my career, I’m diving deeper into the **transport of lysosomes** and studying the **alternative functions** of this organelle in **neuronal models**. My research aims to uncover new insights into how lysosomal function affects neuronal health and function, particularly in relation to neurodegenerative diseases.
+In addition to my research, I have been an advocate for open science and preprint platforms such as bioRxiv. I actively promoted the use of preprints in my previous lab and now contribute to PreLights, a community that curates and highlights cutting-edge research. These experiences have solidified my dedication to democratizing access to scientific knowledge and supporting initiatives that promote transparency and collaboration.
 
-### What Drives My Work?
+My Approach to Science
+Transparency and Reproducibility: I believe in setting high standards for transparency, particularly in areas like data presentation and image analysis, to enhance the credibility and replicability of scientific research.
+Innovative Communication: Exploring new ways to communicate scientific findings is a priority in my work. From writing and presenting to engaging with diverse communities, I am passionate about bridging the gap between researchers and the public.
+Collaboration Across Borders: As a Latin American scientist, I am particularly interested in promoting equitable access to knowledge and fostering a culture of collaboration within underrepresented regions.
+Whether through research, writing, or community engagement, my goal is to contribute to a more inclusive and impactful scientific landscape.
 
-- **Microscopy & Image Analysis**: One of my greatest passions is **microscopy**. I love capturing the fine details of cellular processes through advanced imaging techniques. I also enjoy **image analysis**, using computational tools to extract meaningful data from complex images.
-- **Mechanosensing**: Understanding how cells sense and respond to mechanical changes in their environment is a key focus of my work. My PhD laid the foundation, and I continue to build on this research in the context of neuronal cells.
-- **Lysosomes**: The diverse functions of lysosomes in cellular biology fascinate me. I am investigating their roles beyond their traditional function in degradation and waste management, particularly in the context of neural health.
-
-
-
-You can find my full list of publications on my [Google Scholar profile](https://scholar.google.com/citations?user=BbVGvvwAAAAJ&hl=es).
-
-
-
-Visit my [PreLights profile](https://prelights.biologists.com/profiles/fadelvalle/) for more insights into my ongoing research.
-)
-
-Thank you for visiting!
-
-
+You can explore my publications on Google Scholar or check out my curated preprint highlights on PreLights.
 
