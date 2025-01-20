@@ -20,10 +20,11 @@ In addition to my research, I have been an advocate for open science and preprin
 
 My Approach to Science
 
-*Transparency and Reproducibility: I believe in setting high standards for transparency, particularly in areas like data presentation and image analysis, to enhance the credibility and replicability of scientific research.
+* Transparency and Reproducibility: I believe in setting high standards for transparency, particularly in areas like data presentation and image analysis, to enhance the credibility and replicability of scientific research.
 
-*Innovative Communication: Exploring new ways to communicate scientific findings is a priority in my work. From writing and presenting to engaging with diverse communities, I am passionate about bridging the gap between researchers and the public.
-Collaboration Across Borders: As a Latin American scientist, I am particularly interested in promoting equitable access to knowledge and fostering a culture of collaboration within underrepresented regions.
+* Innovative Communication: Exploring new ways to communicate scientific findings is a priority in my work. From writing and presenting to engaging with diverse communities, I am passionate about bridging the gap between researchers and the public.
+
+* Collaboration Across Borders: As a Latin American scientist, I am particularly interested in promoting equitable access to knowledge and fostering a culture of collaboration within underrepresented regions.
 Whether through research, writing, or community engagement, my goal is to contribute to a more inclusive and impactful scientific landscape.
 
 You can explore my publications on Google Scholar or check out my curated preprint highlights on PreLights.
